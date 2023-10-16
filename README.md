@@ -25,3 +25,4 @@ E=Euro, F=Franken). Der Währungsrechner ermittelt dann die Beträge für die ve
 Währungen.
 
 
+
